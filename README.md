@@ -1,8 +1,5 @@
 # 🌤️ WeatherNow — Live Weather Dashboard
 
-> Built by **Ashwini Vishal** using **IBM Bob** AI assistant.
-> Powered by the [Visual Crossing Weather API](https://www.visualcrossing.com).
-
 ## ✨ Features
 - 🔍 Search any city in the world
 - 🌡️ Real-time temperature, humidity, wind, pressure, visibility
