@@ -1,4 +1,4 @@
-# 🌤️ WeatherNow — Live Weather Dashboard 
+# 🌤️ WeatherNow — Live Weather Dashboard  
 ## Access live dashboard here- https://ashwinihebbali.github.io/WeatherNow-Live-Weather-Dashboard/
 ## ✨ Features
 - 🔍 Search any city in the world
