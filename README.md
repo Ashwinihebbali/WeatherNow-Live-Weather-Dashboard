@@ -1,7 +1,7 @@
 # 🌤️ WeatherNow — Live Weather Dashboard             
 ## Access live dashboard here- https://ashwinihebbali.github.io/WeatherNow-Live-Weather-Dashboard/ 
 ## ✨ Features
-- 🔍 Search any city in the world
+- 🔍 Search any city in the world 
 - 🌡️ Real-time temperature, humidity, wind, pressure, visibility
 - 🕐 Hourly forecast for today
 - 📅 5-day forecast with precipitation probability
